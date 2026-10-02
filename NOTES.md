@@ -30,9 +30,5 @@
 - Bubble redesigned: Apple-Watch-style progress ring (per-pixel-alpha window, `bubble.py`).
 - The rail sits on the side facing the screen's middle (flips when dragged across it).
 
-## To do
-- [x] Brainstorm and replace the bubble icon
-- [x] Wrap up and upload to GitHub — https://github.com/spandanniroula/DYFW (v1.0 release has the exe)
-
 ## Known limit
 Brave and Chrome report only one audio source per browser, so Spotify playing in a browser tab can't take priority over YouTube in another tab. The Spotify desktop app fixes this.
